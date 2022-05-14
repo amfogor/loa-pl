@@ -194,6 +194,17 @@
 ### [vX4F3yuO5RE](https://youtu.be/id) Life of Agony - Lost at 22
 
 - [0:06 Lost at 22](https://youtu.be/id?t=6s)
+### [vX4F3yuO5RE](https://youtu.be/id) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 7.21.94 FULL SET
+
+- [0:00 This Time](https://youtu.be/id?t=0s)
+- [4:54 Method of Groove](https://youtu.be/id?t=294s)
+- [9:47 River Runs Red](https://youtu.be/id?t=587s)
+- [11:38 Plexiglass Gate](https://youtu.be/id?t=698s)
+- [13:42 Respect](https://youtu.be/id?t=822s)
+- [17:54 Other Side of the River](https://youtu.be/id?t=1074s)
+- [22:19 Bad Seed](https://youtu.be/id?t=1339s)
+- [28:15 Underground](https://youtu.be/id?t=1695s)
+- [33:29 Through and Through](https://youtu.be/id?t=2009s)
 ### [vX4F3yuO5RE](https://youtu.be/id) Life Of Agony - How It Would Be + Through & Through (live)
 
 - [0:03 How It Would Be](https://youtu.be/id?t=3s)
@@ -322,6 +333,12 @@
 ### [vX4F3yuO5RE](https://youtu.be/id) LIFE OF AGONY live 1992 MY EYES River Runs Red Tour HOLLYWOOD, CA
 
 - [1:35 My Eyes](https://youtu.be/id?t=95s)
+### [vX4F3yuO5RE](https://youtu.be/id) LIFE OF AGONY THE FILLMORE, SF CA. 8.18.96
+
+- [0:01 River Runs Red](https://youtu.be/id?t=1s)
+- [1:53 Other Side of the River](https://youtu.be/id?t=113s)
+- [6:13 Damned If I Do](https://youtu.be/id?t=373s)
+- [9:53 I Regret](https://youtu.be/id?t=593s)
 ### [vX4F3yuO5RE](https://youtu.be/id) Life of Agony @ Wâldrock
 
 - [0:05 This Time](https://youtu.be/id?t=5s)
@@ -583,3 +600,23 @@
 ### [vX4F3yuO5RE](https://youtu.be/id) Life of Agony - Depression - Live
 
 - [0:07 Depression](https://youtu.be/id?t=7s)
+### [vX4F3yuO5RE](https://youtu.be/id) LIFE OF AGONY BERKELEY SQUARE 7.21.94
+
+- [0:00 This Time](https://youtu.be/id?t=0s)
+- [3:07 Method of Groove](https://youtu.be/id?t=187s)
+- [8:08 River Runs Red](https://youtu.be/id?t=488s)
+- [9:59 Plexiglass Gate](https://youtu.be/id?t=599s)
+- [12:03 Respect](https://youtu.be/id?t=723s)
+- [16:37 Other Side of the River](https://youtu.be/id?t=997s)
+- [21:12 Bad Seed](https://youtu.be/id?t=1272s)
+### [vX4F3yuO5RE](https://youtu.be/id) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 3.17.94 FULL SET
+
+- [0:21 Plexiglass Gate](https://youtu.be/id?t=21s)
+- [2:24 Respect](https://youtu.be/id?t=144s)
+- [6:58 River Runs Red](https://youtu.be/id?t=418s)
+- [9:02 This Time](https://youtu.be/id?t=542s)
+- [15:10 Bad Seed](https://youtu.be/id?t=910s)
+- [20:25 Through and Through](https://youtu.be/id?t=1225s)
+- [23:50 Method of Groove](https://youtu.be/id?t=1430s)
+- [28:26 My Eyes](https://youtu.be/id?t=1706s)
+- [31:11 Underground](https://youtu.be/id?t=1871s)

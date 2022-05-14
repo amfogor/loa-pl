@@ -22,6 +22,8 @@
 
 - [lqBTYeoEV6w](https://youtu.be/lqBTYeoEV6w?t=1303s) Life Of Agony LIVE - COMPLETE SHOW - 05/02/1996 Houston, TX
 
+- [0LxiEDz6zbo](https://youtu.be/0LxiEDz6zbo?t=1339s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 7.21.94 FULL SET
+
 - [jI3JDuXraGU](https://youtu.be/jI3JDuXraGU?t=2564s) LIFE OF AGONY - HOUSE OF ROCK - LIGHTHOUSE POINT, FLORIDA - SEPTEMBER 19, 1997
 
 - [tdtyMSIawds](https://youtu.be/tdtyMSIawds?t=889s) Life Of Agony - (The Abyss) - Houston Texas 8-6-94
@@ -60,12 +62,18 @@
 
 - [vX4F3yuO5RE](https://youtu.be/vX4F3yuO5RE?t=813s) Life of Agony - Studio One [Full Set] 10/22/93 - Newark, NJ
 
+- [jdwyWyS2i80](https://youtu.be/jdwyWyS2i80?t=1272s) LIFE OF AGONY BERKELEY SQUARE 7.21.94
+
+- [YehwuLwt0qE](https://youtu.be/YehwuLwt0qE?t=910s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 3.17.94 FULL SET
+
 ### Damned If I Do
 - [ihN1ZVjJ97w](https://youtu.be/ihN1ZVjJ97w?t=2245s) LIFE OF AGONY BERKELEY SQUARE 9.4.95 FULL SET
 
 - [lqBTYeoEV6w](https://youtu.be/lqBTYeoEV6w?t=1046s) Life Of Agony LIVE - COMPLETE SHOW - 05/02/1996 Houston, TX
 
 - [jI3JDuXraGU](https://youtu.be/jI3JDuXraGU?t=324s) LIFE OF AGONY - HOUSE OF ROCK - LIGHTHOUSE POINT, FLORIDA - SEPTEMBER 19, 1997
+
+- [URr5UU6erss](https://youtu.be/URr5UU6erss?t=373s) LIFE OF AGONY THE FILLMORE, SF CA. 8.18.96
 
 - [QVKXBXotUFw](https://youtu.be/QVKXBXotUFw?t=582s) Life of Agony @ Wâldrock
 
@@ -115,6 +123,8 @@
 - [jI3JDuXraGU](https://youtu.be/jI3JDuXraGU?t=1575s) LIFE OF AGONY - HOUSE OF ROCK - LIGHTHOUSE POINT, FLORIDA - SEPTEMBER 19, 1997
 
 - [pzwblElSin4](https://youtu.be/pzwblElSin4?t=39s) Life Of Agony - I Regret - LIve 2009
+
+- [URr5UU6erss](https://youtu.be/URr5UU6erss?t=593s) LIFE OF AGONY THE FILLMORE, SF CA. 8.18.96
 
 - [QVKXBXotUFw](https://youtu.be/QVKXBXotUFw?t=834s) Life of Agony @ Wâldrock
 
@@ -228,6 +238,8 @@
 
 - [uYetqk5ONYQ](https://youtu.be/uYetqk5ONYQ?t=1106s) Life Of Agony - Vosselaar 07.01.1994
 
+- [0LxiEDz6zbo](https://youtu.be/0LxiEDz6zbo?t=294s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 7.21.94 FULL SET
+
 - [tdtyMSIawds](https://youtu.be/tdtyMSIawds?t=1223s) Life Of Agony - (The Abyss) - Houston Texas 8-6-94
 
 - [5mAFd_qpwZI](https://youtu.be/5mAFd_qpwZI?t=799s) Life Of Agony live at the Stone Pony, Asbury Park, NJ 2/25/94 | HQ OFFICIAL PRO AUDIO ONLY COMPLETE
@@ -260,6 +272,10 @@
 
 - [WKXeM24dAbg](https://youtu.be/WKXeM24dAbg?t=820s) Life Of Agony (Live at Graspop Metal Meeting 2007)
 
+- [jdwyWyS2i80](https://youtu.be/jdwyWyS2i80?t=187s) LIFE OF AGONY BERKELEY SQUARE 7.21.94
+
+- [YehwuLwt0qE](https://youtu.be/YehwuLwt0qE?t=1430s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 3.17.94 FULL SET
+
 ### My Eyes
 - [vNSU1EGTwiw](https://youtu.be/vNSU1EGTwiw?t=271s) Life Of Agony -  live in Munich, Aug. 18  Part 1
 
@@ -280,6 +296,8 @@
 - [Kftc22znoOs](https://youtu.be/Kftc22znoOs?t=2501s) Life Of Agony live @ Wetlands Preserve NYC 1993 (Full Show)
 
 - [VMs-lyMnN_o](https://youtu.be/VMs-lyMnN_o?t=1907s) Life of Agony live 1993 Record Release Party L'Amour Brooklyn River Runs Red CD
+
+- [YehwuLwt0qE](https://youtu.be/YehwuLwt0qE?t=1706s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 3.17.94 FULL SET
 
 ### My Mind Is Dangerous
 - [ORy4U1_CUdA](https://youtu.be/ORy4U1_CUdA?t=1325s) Life Of Agony - Köln 24.08.1997 (TV)
@@ -310,6 +328,8 @@
 
 - [pvEHmxt-6Ps](https://youtu.be/pvEHmxt-6Ps?t=7s) Life Of Agony - Other side of the river - live Offenbach 2003 - Underground Live TV recording
 
+- [0LxiEDz6zbo](https://youtu.be/0LxiEDz6zbo?t=1074s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 7.21.94 FULL SET
+
 - [jI3JDuXraGU](https://youtu.be/jI3JDuXraGU?t=1s) LIFE OF AGONY - HOUSE OF ROCK - LIGHTHOUSE POINT, FLORIDA - SEPTEMBER 19, 1997
 
 - [AHqS3c_J_as](https://youtu.be/AHqS3c_J_as?t=1065s) Life Of Agony - Albany 12.11.1994 (incl. Soundcheck)
@@ -317,6 +337,8 @@
 - [AHqS3c_J_as](https://youtu.be/AHqS3c_J_as?t=2571s) Life Of Agony - Albany 12.11.1994 (incl. Soundcheck)
 
 - [Vk_lNHe-Sfc](https://youtu.be/Vk_lNHe-Sfc?t=3358s) LIFE OF AGONY LIVE IN BRUSSELS RIVER RUNS REDS 20 YEARS STRONG
+
+- [URr5UU6erss](https://youtu.be/URr5UU6erss?t=113s) LIFE OF AGONY THE FILLMORE, SF CA. 8.18.96
 
 - [QVKXBXotUFw](https://youtu.be/QVKXBXotUFw?t=330s) Life of Agony @ Wâldrock
 
@@ -338,6 +360,8 @@
 
 - [bqEgjEpjWn0](https://youtu.be/bqEgjEpjWn0?t=334s) LIFE OF AGONY Full Concert 1997 live on Viva stage nightclub
 
+- [jdwyWyS2i80](https://youtu.be/jdwyWyS2i80?t=997s) LIFE OF AGONY BERKELEY SQUARE 7.21.94
+
 ### Plexiglass Gate
 - [Yw25bKieli0](https://youtu.be/Yw25bKieli0?t=11s) LIFE OF AGONY Live Paris 04 02 1994
 
@@ -346,6 +370,8 @@
 - [uYetqk5ONYQ](https://youtu.be/uYetqk5ONYQ?t=15s) Life Of Agony - Vosselaar 07.01.1994
 
 - [MDEgJCB52Bs](https://youtu.be/MDEgJCB52Bs?t=18s) Life Of Agony - Plexiglass Intro + Respect (live)
+
+- [0LxiEDz6zbo](https://youtu.be/0LxiEDz6zbo?t=698s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 7.21.94 FULL SET
 
 - [tdtyMSIawds](https://youtu.be/tdtyMSIawds?t=19s) Life Of Agony - (The Abyss) - Houston Texas 8-6-94
 
@@ -373,6 +399,10 @@
 
 - [vX4F3yuO5RE](https://youtu.be/vX4F3yuO5RE?t=8s) Life of Agony - Studio One [Full Set] 10/22/93 - Newark, NJ
 
+- [jdwyWyS2i80](https://youtu.be/jdwyWyS2i80?t=599s) LIFE OF AGONY BERKELEY SQUARE 7.21.94
+
+- [YehwuLwt0qE](https://youtu.be/YehwuLwt0qE?t=21s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 3.17.94 FULL SET
+
 ### Respect
 - [Yw25bKieli0](https://youtu.be/Yw25bKieli0?t=140s) LIFE OF AGONY Live Paris 04 02 1994
 
@@ -381,6 +411,8 @@
 - [uYetqk5ONYQ](https://youtu.be/uYetqk5ONYQ?t=143s) Life Of Agony - Vosselaar 07.01.1994
 
 - [MDEgJCB52Bs](https://youtu.be/MDEgJCB52Bs?t=149s) Life Of Agony - Plexiglass Intro + Respect (live)
+
+- [0LxiEDz6zbo](https://youtu.be/0LxiEDz6zbo?t=822s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 7.21.94 FULL SET
 
 - [tdtyMSIawds](https://youtu.be/tdtyMSIawds?t=143s) Life Of Agony - (The Abyss) - Houston Texas 8-6-94
 
@@ -410,6 +442,10 @@
 
 - [vX4F3yuO5RE](https://youtu.be/vX4F3yuO5RE?t=114s) Life of Agony - Studio One [Full Set] 10/22/93 - Newark, NJ
 
+- [jdwyWyS2i80](https://youtu.be/jdwyWyS2i80?t=723s) LIFE OF AGONY BERKELEY SQUARE 7.21.94
+
+- [YehwuLwt0qE](https://youtu.be/YehwuLwt0qE?t=144s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 3.17.94 FULL SET
+
 ### River Runs Red
 - [Yw25bKieli0](https://youtu.be/Yw25bKieli0?t=395s) LIFE OF AGONY Live Paris 04 02 1994
 
@@ -433,6 +469,8 @@
 
 - [wAcGKM2uzrs](https://youtu.be/wAcGKM2uzrs?t=18s) Life of Agony - River Runs Red 1997
 
+- [0LxiEDz6zbo](https://youtu.be/0LxiEDz6zbo?t=587s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 7.21.94 FULL SET
+
 - [-7xWZ5q6TZU](https://youtu.be/-7xWZ5q6TZU?t=37s) Life Of Agony - (Electric Factory) Philadelphia,Pa 4.9.05 (Complete Show)
 
 - [tdtyMSIawds](https://youtu.be/tdtyMSIawds?t=403s) Life Of Agony - (The Abyss) - Houston Texas 8-6-94
@@ -446,6 +484,8 @@
 - [nAAY58KlL-g](https://youtu.be/nAAY58KlL-g?t=394s) Life Of Agony - Issy-Les-Moulineaux 04.02.1994
 
 - [Vk_lNHe-Sfc](https://youtu.be/Vk_lNHe-Sfc?t=889s) LIFE OF AGONY LIVE IN BRUSSELS RIVER RUNS REDS 20 YEARS STRONG
+
+- [URr5UU6erss](https://youtu.be/URr5UU6erss?t=1s) LIFE OF AGONY THE FILLMORE, SF CA. 8.18.96
 
 - [QVKXBXotUFw](https://youtu.be/QVKXBXotUFw?t=2524s) Life of Agony @ Wâldrock
 
@@ -474,6 +514,10 @@
 - [WKXeM24dAbg](https://youtu.be/WKXeM24dAbg?t=2292s) Life Of Agony (Live at Graspop Metal Meeting 2007)
 
 - [vX4F3yuO5RE](https://youtu.be/vX4F3yuO5RE?t=408s) Life of Agony - Studio One [Full Set] 10/22/93 - Newark, NJ
+
+- [jdwyWyS2i80](https://youtu.be/jdwyWyS2i80?t=488s) LIFE OF AGONY BERKELEY SQUARE 7.21.94
+
+- [YehwuLwt0qE](https://youtu.be/YehwuLwt0qE?t=418s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 3.17.94 FULL SET
 
 ### Seasons
 - [ihN1ZVjJ97w](https://youtu.be/ihN1ZVjJ97w?t=1436s) LIFE OF AGONY BERKELEY SQUARE 9.4.95 FULL SET
@@ -579,6 +623,8 @@
 
 - [lqBTYeoEV6w](https://youtu.be/lqBTYeoEV6w?t=2599s) Life Of Agony LIVE - COMPLETE SHOW - 05/02/1996 Houston, TX
 
+- [0LxiEDz6zbo](https://youtu.be/0LxiEDz6zbo?t=0s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 7.21.94 FULL SET
+
 - [-7xWZ5q6TZU](https://youtu.be/-7xWZ5q6TZU?t=393s) Life Of Agony - (Electric Factory) Philadelphia,Pa 4.9.05 (Complete Show)
 
 - [tdtyMSIawds](https://youtu.be/tdtyMSIawds?t=514s) Life Of Agony - (The Abyss) - Houston Texas 8-6-94
@@ -629,6 +675,10 @@
 
 - [vX4F3yuO5RE](https://youtu.be/vX4F3yuO5RE?t=1138s) Life of Agony - Studio One [Full Set] 10/22/93 - Newark, NJ
 
+- [jdwyWyS2i80](https://youtu.be/jdwyWyS2i80?t=0s) LIFE OF AGONY BERKELEY SQUARE 7.21.94
+
+- [YehwuLwt0qE](https://youtu.be/YehwuLwt0qE?t=542s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 3.17.94 FULL SET
+
 ### Through and Through
 - [Yw25bKieli0](https://youtu.be/Yw25bKieli0?t=963s) LIFE OF AGONY Live Paris 04 02 1994
 
@@ -649,6 +699,8 @@
 - [lqBTYeoEV6w](https://youtu.be/lqBTYeoEV6w?t=23s) Life Of Agony LIVE - COMPLETE SHOW - 05/02/1996 Houston, TX
 
 - [oxKw1U9InV8](https://youtu.be/oxKw1U9InV8?t=98s) Life Of Agony - Montreal - 1995
+
+- [0LxiEDz6zbo](https://youtu.be/0LxiEDz6zbo?t=2009s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 7.21.94 FULL SET
 
 - [TEB9vAbwyH8](https://youtu.be/TEB9vAbwyH8?t=309s) Life Of Agony - How It Would Be + Through & Through (live)
 
@@ -694,6 +746,8 @@
 
 - [vX4F3yuO5RE](https://youtu.be/vX4F3yuO5RE?t=536s) Life of Agony - Studio One [Full Set] 10/22/93 - Newark, NJ
 
+- [YehwuLwt0qE](https://youtu.be/YehwuLwt0qE?t=1225s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 3.17.94 FULL SET
+
 ### Ugly
 - [ARG3pf-7x8w](https://youtu.be/ARG3pf-7x8w?t=31s) Life Of Agony - Ugly + Bad Seed (live)
 
@@ -719,6 +773,8 @@
 - [lqBTYeoEV6w](https://youtu.be/lqBTYeoEV6w?t=1617s) Life Of Agony LIVE - COMPLETE SHOW - 05/02/1996 Houston, TX
 
 - [oxKw1U9InV8](https://youtu.be/oxKw1U9InV8?t=918s) Life Of Agony - Montreal - 1995
+
+- [0LxiEDz6zbo](https://youtu.be/0LxiEDz6zbo?t=1695s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 7.21.94 FULL SET
 
 - [-7xWZ5q6TZU](https://youtu.be/-7xWZ5q6TZU?t=2249s) Life Of Agony - (Electric Factory) Philadelphia,Pa 4.9.05 (Complete Show)
 
@@ -763,6 +819,8 @@
 - [WKXeM24dAbg](https://youtu.be/WKXeM24dAbg?t=2640s) Life Of Agony (Live at Graspop Metal Meeting 2007)
 
 - [vX4F3yuO5RE](https://youtu.be/vX4F3yuO5RE?t=1791s) Life of Agony - Studio One [Full Set] 10/22/93 - Newark, NJ
+
+- [YehwuLwt0qE](https://youtu.be/YehwuLwt0qE?t=1871s) LIFE OF AGONY BERKELEY SQUARE, BERKELEY CA. 3.17.94 FULL SET
 
 ### Weeds
 - [vIQ1xoKpPLM](https://youtu.be/vIQ1xoKpPLM?t=1093s) Life of Agony (Wâldrock Festival, Burgum, Holland 04-06-2005)
