@@ -532,21 +532,6 @@
 
 - [XGetcPW8NaY](https://youtu.be/XGetcPW8NaY?t=2008s) LIFE OF AGONY Milwaukee (USA, WI), 06 juillet 1996
 
-### Stain Remains
-- [uYetqk5ONYQ](https://youtu.be/uYetqk5ONYQ?t=2058s) Life Of Agony - Vosselaar 07.01.1994
-
-- [tnxWGaIrfpw](https://youtu.be/tnxWGaIrfpw?t=0s) Life of Agony feat. Dan from ONE4ONE - The Stain Remains [Studio One] Newark, NJ 10/22/93
-
-- [Vk_lNHe-Sfc](https://youtu.be/Vk_lNHe-Sfc?t=2814s) LIFE OF AGONY LIVE IN BRUSSELS RIVER RUNS REDS 20 YEARS STRONG
-
-- [wEMZe65a0mg](https://youtu.be/wEMZe65a0mg?t=362s) Life Of Agony - Underground + Stain Remains (live)
-
-- [irRevWpJoOM](https://youtu.be/irRevWpJoOM?t=2726s) LIFE OF AGONY 12/27/93 - STUDIO ONE [FULL SET] NEWARK, NJ
-
-- [vX4F3yuO5RE](https://youtu.be/vX4F3yuO5RE?t=2068s) Life of Agony - Studio One [Full Set] 10/22/93 - Newark, NJ
-
-- [exTJrPbRXPs](https://youtu.be/exTJrPbRXPs?t=12s) LIFE OF AGONY
-
 ### Strung Out
 - [vIQ1xoKpPLM](https://youtu.be/vIQ1xoKpPLM?t=2229s) Life of Agony (Wâldrock Festival, Burgum, Holland 04-06-2005)
 
@@ -578,7 +563,11 @@
 
 - [UUIY8rXaWko](https://youtu.be/UUIY8rXaWko?t=2139s) life of agony Buffalo, NY @ the icon 1994
 
+- [uYetqk5ONYQ](https://youtu.be/uYetqk5ONYQ?t=2058s) Life Of Agony - Vosselaar 07.01.1994
+
 - [tdtyMSIawds](https://youtu.be/tdtyMSIawds?t=2036s) Life Of Agony - (The Abyss) - Houston Texas 8-6-94
+
+- [tnxWGaIrfpw](https://youtu.be/tnxWGaIrfpw?t=0s) Life of Agony feat. Dan from ONE4ONE - The Stain Remains [Studio One] Newark, NJ 10/22/93
 
 - [OF4C6SSdIic](https://youtu.be/OF4C6SSdIic?t=1635s) Life Of Agony Live in Buffalo NY 1993 (SICK)
 
@@ -586,7 +575,11 @@
 
 - [nAAY58KlL-g](https://youtu.be/nAAY58KlL-g?t=2306s) Life Of Agony - Issy-Les-Moulineaux 04.02.1994
 
+- [Vk_lNHe-Sfc](https://youtu.be/Vk_lNHe-Sfc?t=2814s) LIFE OF AGONY LIVE IN BRUSSELS RIVER RUNS REDS 20 YEARS STRONG
+
 - [QVKXBXotUFw](https://youtu.be/QVKXBXotUFw?t=2835s) Life of Agony @ Wâldrock
+
+- [wEMZe65a0mg](https://youtu.be/wEMZe65a0mg?t=362s) Life Of Agony - Underground + Stain Remains (live)
 
 - [O2C2UirS4zU](https://youtu.be/O2C2UirS4zU?t=1949s) Life Of Agony at L'Amour in Brooklyn
 
@@ -596,9 +589,15 @@
 
 - [93e3GxciqJU](https://youtu.be/93e3GxciqJU?t=1373s) Life of Agony live 1993 the Wave in Staten Island
 
+- [irRevWpJoOM](https://youtu.be/irRevWpJoOM?t=2726s) LIFE OF AGONY 12/27/93 - STUDIO ONE [FULL SET] NEWARK, NJ
+
 - [Kftc22znoOs](https://youtu.be/Kftc22znoOs?t=2730s) Life Of Agony live @ Wetlands Preserve NYC 1993 (Full Show)
 
 - [VMs-lyMnN_o](https://youtu.be/VMs-lyMnN_o?t=3142s) Life of Agony live 1993 Record Release Party L'Amour Brooklyn River Runs Red CD
+
+- [vX4F3yuO5RE](https://youtu.be/vX4F3yuO5RE?t=2068s) Life of Agony - Studio One [Full Set] 10/22/93 - Newark, NJ
+
+- [exTJrPbRXPs](https://youtu.be/exTJrPbRXPs?t=12s) LIFE OF AGONY
 
 ### This Time
 - [Yw25bKieli0](https://youtu.be/Yw25bKieli0?t=546s) LIFE OF AGONY Live Paris 04 02 1994

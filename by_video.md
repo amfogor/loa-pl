@@ -121,7 +121,7 @@
 - [18:26 Method of Groove](https://youtu.be/id?t=1106s)
 - [23:23 Bad Seed](https://youtu.be/id?t=1403s)
 - [29:35 Underground](https://youtu.be/id?t=1775s)
-- [34:18 Stain Remains](https://youtu.be/id?t=2058s)
+- [34:18 The Stain Remains](https://youtu.be/id?t=2058s)
 ### [vX4F3yuO5RE](https://youtu.be/id) Life of Agony live at Paradiso 1996 lost at 22 2
 
 - [0:00 Lost at 22](https://youtu.be/id?t=0s)
@@ -266,7 +266,7 @@
 - [0:01 This Time](https://youtu.be/id?t=1s)
 ### [vX4F3yuO5RE](https://youtu.be/id) Life of Agony feat. Dan from ONE4ONE - The Stain Remains [Studio One] Newark, NJ 10/22/93
 
-- [0:00 Stain Remains](https://youtu.be/id?t=0s)
+- [0:00 The Stain Remains](https://youtu.be/id?t=0s)
 ### [vX4F3yuO5RE](https://youtu.be/id) Life Of Agony - I Regret - LIve 2009
 
 - [0:39 I Regret](https://youtu.be/id?t=39s)
@@ -325,7 +325,7 @@
 - [34:18 My Eyes](https://youtu.be/id?t=2058s)
 - [37:20 Respect](https://youtu.be/id?t=2240s)
 - [42:27 Method of Groove](https://youtu.be/id?t=2547s)
-- [46:54 Stain Remains](https://youtu.be/id?t=2814s)
+- [46:54 The Stain Remains](https://youtu.be/id?t=2814s)
 - [55:58 Other Side of the River](https://youtu.be/id?t=3358s)
 - [1:00:41 Love To Let You Down](https://youtu.be/id?t=3641s)
 - [1:04:50 Weeds](https://youtu.be/id?t=3890s)
@@ -356,7 +356,7 @@
 ### [vX4F3yuO5RE](https://youtu.be/id) Life Of Agony - Underground + Stain Remains (live)
 
 - [0:13 Underground](https://youtu.be/id?t=13s)
-- [6:02 Stain Remains](https://youtu.be/id?t=362s)
+- [6:02 The Stain Remains](https://youtu.be/id?t=362s)
 ### [vX4F3yuO5RE](https://youtu.be/id) Life of Agony
 
 - [0:06 Bad Seed](https://youtu.be/id?t=6s)
@@ -485,7 +485,7 @@
 - [34:33 Through and Through](https://youtu.be/id?t=2073s)
 - [38:51 Plexiglass Gate](https://youtu.be/id?t=2331s)
 - [40:58 Respect](https://youtu.be/id?t=2458s)
-- [45:26 Stain Remains](https://youtu.be/id?t=2726s)
+- [45:26 The Stain Remains](https://youtu.be/id?t=2726s)
 ### [vX4F3yuO5RE](https://youtu.be/id) Life of Agony - The Day He Died LIVE (2005)
 
 - [0:04 The Day He Died](https://youtu.be/id?t=4s)
@@ -581,7 +581,7 @@
 - [18:58 This Time](https://youtu.be/id?t=1138s)
 - [24:44 Words and Music](https://youtu.be/id?t=1484s)
 - [29:51 Underground](https://youtu.be/id?t=1791s)
-- [34:28 Stain Remains](https://youtu.be/id?t=2068s)
+- [34:28 The Stain Remains](https://youtu.be/id?t=2068s)
 ### [vX4F3yuO5RE](https://youtu.be/id) Life Of Agony - Lost At 22 (Live)
 
 - [0:19 Lost at 22](https://youtu.be/id?t=19s)
@@ -593,7 +593,7 @@
 - [0:07 Lost at 22](https://youtu.be/id?t=7s)
 ### [vX4F3yuO5RE](https://youtu.be/id) LIFE OF AGONY
 
-- [0:12 Stain Remains](https://youtu.be/id?t=12s)
+- [0:12 The Stain Remains](https://youtu.be/id?t=12s)
 ### [vX4F3yuO5RE](https://youtu.be/id) Life Of Agony - interview Keith at Rockzone 18-8-2000 (Dutch TV)
 
 - [8:50 Let's Pretend](https://youtu.be/id?t=530s)

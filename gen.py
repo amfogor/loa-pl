@@ -47,7 +47,7 @@ urlPrefix = "https://youtu.be"
 videos = []
 songToStamps = {}
 
-for i, file in enumerate(pathlib.Path("playlists").iterdir()):
+for i, file in enumerate(pathlib.Path("setlists").iterdir()):
     vd = Video(file.name)
     def f(stamp, song):
         vd.playlist.append( (stamp, song) )
