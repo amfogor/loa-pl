@@ -9,7 +9,7 @@ def stamp_to_sec(v):
     elif(len(parts) == 3):
         hour,min,sec = parts
         return int(hour) * 3600 + int(min) * 60 + int(sec)
-    raise Exception("Invalid stamp format")
+    raise Exception('Invalid stamp format')
 
 def get_titles(ids, f):
     procs = []
@@ -30,9 +30,9 @@ def get_titles(ids, f):
 def get_playlist(file, f):
     lines = open(file, 'r').read().split('\n')
     for line in lines:
-        parts = line.split("  ")
+        parts = line.split('  ')
         if(len(parts) != 2):
-            raise Exception("{file} has a problem")
+            raise Exception(f'{file} has a problem')
         stamp,song = parts
         f(stamp, song)
 
@@ -40,14 +40,14 @@ class Video:
     def __init__(self, id):
         self.id = id
         self.playlist = []
-        self.title = "<title>"
+        self.title = '<title>'
 
-urlPrefix = "https://youtu.be"
+urlPrefix = 'https://youtu.be'
 
 videos = []
 songToStamps = {}
 
-for i, file in enumerate(pathlib.Path("setlists").iterdir()):
+for i, file in enumerate(sorted(pathlib.Path('setlists').iterdir())):
     vd = Video(file.name)
     def f(stamp, song):
         vd.playlist.append( (stamp, song) )
@@ -66,7 +66,7 @@ output = open('by_song.md', 'w')
 
 for song in sorted(songToStamps.keys()):
     stamps = songToStamps[song]
-    output.write(f"### {song}\n")
+    output.write(f'### {song}\n')
     for vd_i, s_i in stamps:
         vd = videos[vd_i]
         id = vd.id
@@ -74,16 +74,16 @@ for song in sorted(songToStamps.keys()):
         stamp, song = vd.playlist[s_i]
         t = stamp_to_sec(stamp)
         songUrl = f'{urlPrefix}/{id}?t={t}s'
-        output.write(f"- [{id}]({songUrl}) {title}\n")
+        output.write(f'- [{id}]({songUrl}) {title}\n')
 
 output = open('by_video.md', 'w')
 
 for vd in videos:
     title = vd.title
     playlist = vd.playlist
-    videoUrl = urlPrefix + "/id"
-    output.write(f"### [{id}]({videoUrl}) {title}\n")
+    videoUrl = f'{urlPrefix}/{id}'
+    output.write(f'### [{id}]({videoUrl}) {title}\n')
     for stamp, song in playlist:
         t = stamp_to_sec(stamp)
         songUrl = f'{videoUrl}?t={t}s'
-        output.write(f"- [{stamp} {song}]({songUrl})\n")
+        output.write(f'- [{stamp} {song}]({songUrl})\n')
