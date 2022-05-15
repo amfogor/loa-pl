@@ -79,6 +79,7 @@ for song in sorted(songToStamps.keys()):
 output = open('by_video.md', 'w')
 
 for vd in videos:
+    id = vd.id
     title = vd.title
     playlist = vd.playlist
     videoUrl = f'{urlPrefix}/{id}'
